@@ -1,5 +1,7 @@
-Go to https://royale.apache.org/download/
+# How to download Apache Royale
 
-Select the desired release, download to your machine
+# Go to https://royale.apache.org/download/
 
-Alternatively, https://royale.apache.org/download/ has explanations for how to download using other methods and such
+# Select the desired release, download to your machine
+
+# Alternatively, https://royale.apache.org/download/ has explanations for how to download using other methods and such
