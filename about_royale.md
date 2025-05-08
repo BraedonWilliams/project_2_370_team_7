@@ -27,4 +27,8 @@ Focuses on performance and minimal overhead, making it suitable for modern web a
   Data-driven dashboards.
   Applications that need to run on both web and desktop platforms.
 
-Apache Royale is a powerful tool for developers transitioning from Adobe Flex or those looking to build robust, cross-platform applications.
+# How It Works:
+MXML: Defines the structure and layout of the application.
+ActionScript: Implements the application logic.
+Compilation: The Royale compiler converts the MXML and ActionScript into HTML, CSS, and JavaScript.
+Getting Started:
